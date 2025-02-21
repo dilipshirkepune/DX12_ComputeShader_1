@@ -1,0 +1,200 @@
+Texture Size: 64x64
+Thread Group Size: 8x8
+GPU Time: 0.0122917 ms
+GPU Time: 0.0173958 ms
+GPU Time: 0.0200521 ms
+GPU Time: 0.0138021 ms
+GPU Time: 0.013125 ms
+GPU Time: 0.0121354 ms
+GPU Time: 0.0124479 ms
+GPU Time: 0.0123438 ms
+GPU Time: 0.0296875 ms
+GPU Time: 0.0150521 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 16x16
+GPU Time: 0.0140104 ms
+GPU Time: 0.0141146 ms
+GPU Time: 0.0146354 ms
+GPU Time: 0.0135937 ms
+GPU Time: 0.0148437 ms
+GPU Time: 0.0134896 ms
+GPU Time: 0.0142708 ms
+GPU Time: 0.014375 ms
+GPU Time: 0.0146354 ms
+GPU Time: 0.0140104 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 32x32
+GPU Time: 0.01625 ms
+GPU Time: 0.0196875 ms
+GPU Time: 0.01625 ms
+GPU Time: 0.015 ms
+GPU Time: 0.0210417 ms
+GPU Time: 0.0206771 ms
+GPU Time: 0.0159375 ms
+GPU Time: 0.0205208 ms
+GPU Time: 0.0210417 ms
+GPU Time: 0.0159896 ms
+Final Max Value: 99
+----------------------------------------------------
+Texture Size: 128x128
+Thread Group Size: 8x8
+GPU Time: 0.0138542 ms
+GPU Time: 0.0127083 ms
+GPU Time: 0.0136979 ms
+GPU Time: 0.0130208 ms
+GPU Time: 0.0138021 ms
+GPU Time: 0.013125 ms
+GPU Time: 0.0129167 ms
+GPU Time: 0.0125 ms
+GPU Time: 0.0130729 ms
+GPU Time: 0.013125 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 16x16
+GPU Time: 0.0148437 ms
+GPU Time: 0.0147396 ms
+GPU Time: 0.015 ms
+GPU Time: 0.0146354 ms
+GPU Time: 0.0148437 ms
+GPU Time: 0.0146875 ms
+GPU Time: 0.0155729 ms
+GPU Time: 0.0146875 ms
+GPU Time: 0.021875 ms
+GPU Time: 0.0145833 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 32x32
+GPU Time: 0.0204167 ms
+GPU Time: 0.0196875 ms
+GPU Time: 0.0207292 ms
+GPU Time: 0.0202604 ms
+GPU Time: 0.0210417 ms
+GPU Time: 0.0200521 ms
+GPU Time: 0.0204688 ms
+GPU Time: 0.0194792 ms
+GPU Time: 0.0201042 ms
+GPU Time: 0.0208333 ms
+Final Max Value: 99
+----------------------------------------------------
+Texture Size: 256x256
+Thread Group Size: 8x8
+GPU Time: 0.0230208 ms
+GPU Time: 0.0230729 ms
+GPU Time: 0.0230208 ms
+GPU Time: 0.0227604 ms
+GPU Time: 0.0226042 ms
+GPU Time: 0.0211458 ms
+GPU Time: 0.0234375 ms
+GPU Time: 0.0226562 ms
+GPU Time: 0.0225521 ms
+GPU Time: 0.0233854 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 16x16
+GPU Time: 0.0270312 ms
+GPU Time: 0.028125 ms
+GPU Time: 0.0279167 ms
+GPU Time: 0.0318229 ms
+GPU Time: 0.0248438 ms
+GPU Time: 0.0255729 ms
+GPU Time: 0.0245833 ms
+GPU Time: 0.0274479 ms
+GPU Time: 0.0281771 ms
+GPU Time: 0.0273958 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 32x32
+GPU Time: 0.0328646 ms
+GPU Time: 0.0342708 ms
+GPU Time: 0.0352083 ms
+GPU Time: 0.0345312 ms
+GPU Time: 0.0335937 ms
+GPU Time: 0.0357813 ms
+GPU Time: 0.03625 ms
+GPU Time: 0.0348958 ms
+GPU Time: 0.0314062 ms
+GPU Time: 0.0340104 ms
+Final Max Value: 99
+----------------------------------------------------
+Texture Size: 512x512
+Thread Group Size: 8x8
+GPU Time: 0.054375 ms
+GPU Time: 0.0551042 ms
+GPU Time: 0.0595833 ms
+GPU Time: 0.0549479 ms
+GPU Time: 0.0554687 ms
+GPU Time: 0.0540104 ms
+GPU Time: 0.0496875 ms
+GPU Time: 0.0503125 ms
+GPU Time: 0.0501562 ms
+GPU Time: 0.0491667 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 16x16
+GPU Time: 0.0636979 ms
+GPU Time: 0.0630208 ms
+GPU Time: 0.0792708 ms
+GPU Time: 0.0638542 ms
+GPU Time: 0.0860417 ms
+GPU Time: 0.0641146 ms
+GPU Time: 0.069375 ms
+GPU Time: 0.0643229 ms
+GPU Time: 0.0866146 ms
+GPU Time: 0.0669792 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 32x32
+GPU Time: 0.07625 ms
+GPU Time: 0.0758333 ms
+GPU Time: 0.0765104 ms
+GPU Time: 0.075 ms
+GPU Time: 0.0748958 ms
+GPU Time: 0.0758333 ms
+GPU Time: 0.0754167 ms
+GPU Time: 0.0754688 ms
+GPU Time: 0.0752083 ms
+GPU Time: 0.0764583 ms
+Final Max Value: 99
+----------------------------------------------------
+Texture Size: 1024x1024
+Thread Group Size: 8x8
+GPU Time: 0.164792 ms
+GPU Time: 0.16401 ms
+GPU Time: 0.17099 ms
+GPU Time: 0.163281 ms
+GPU Time: 0.165208 ms
+GPU Time: 0.16474 ms
+GPU Time: 0.170313 ms
+GPU Time: 0.165 ms
+GPU Time: 0.163802 ms
+GPU Time: 0.163542 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 16x16
+GPU Time: 0.233854 ms
+GPU Time: 0.214427 ms
+GPU Time: 0.236302 ms
+GPU Time: 0.214896 ms
+GPU Time: 0.220469 ms
+GPU Time: 0.214792 ms
+GPU Time: 0.219844 ms
+GPU Time: 0.214219 ms
+GPU Time: 0.227031 ms
+GPU Time: 0.21974 ms
+Final Max Value: 99
+----------------------------------------------------
+Thread Group Size: 32x32
+GPU Time: 0.25776 ms
+GPU Time: 0.254479 ms
+GPU Time: 0.257552 ms
+GPU Time: 0.262188 ms
+GPU Time: 0.270729 ms
+GPU Time: 0.258698 ms
+GPU Time: 0.257812 ms
+GPU Time: 0.258594 ms
+GPU Time: 0.257917 ms
+GPU Time: 0.259375 ms
+Final Max Value: 99
+----------------------------------------------------
